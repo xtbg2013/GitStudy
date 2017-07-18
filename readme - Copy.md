@@ -9,4 +9,3 @@ branch test4
 merge to master
 add1
 add2
-add3
